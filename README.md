@@ -205,7 +205,7 @@ file contains all of the required Python libraries for your work, and restricts
 them to the repository that you're working in.
 
 To install `pytest` and any other required libraries, simply navigate to a folder
-with a `Pipfile` and enter `pipenv install`:
+with a `Pipfile` and enter `c`:
 
 ```console
 $ pipenv install
